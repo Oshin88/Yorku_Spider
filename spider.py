@@ -1,3 +1,5 @@
+#This is a small class for calculating your gpa and checking your academic status at York University
+
 #from selenium import webdriver
 from bs4 import BeautifulSoup
 import urllib
